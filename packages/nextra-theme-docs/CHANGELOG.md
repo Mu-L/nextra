@@ -1,5 +1,17 @@
 # nextra-theme-docs
 
+## 4.0.0-app-router.4
+
+### Major Changes
+
+- 0faa569: replace `gitTimestamp` option with `lastUpdated`
+
+  replace `editLink.content` option with `editLink`
+
+### Patch Changes
+
+- nextra@4.0.0-app-router.4
+
 ## 4.0.0-app-router.3
 
 ### Major Changes
